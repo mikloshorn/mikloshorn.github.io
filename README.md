@@ -15,6 +15,6 @@ Second git push done with the following steps:
   - git add README.md
   - git commit -a -m "Updated Section 2"  
 4) git push origin master  
-5) Check website: mikloshorn.github.io
+5) Check website: mikloshorn.github.io  
 
-WHy does this not work :(
+First offline: go to new branch - work in that, then upload with git push origin <new-branch e.g. start-website>
