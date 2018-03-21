@@ -16,6 +16,7 @@ Second git push done with the following steps:
 5) git status: file needs to be added + committed - DO BOTH  
   - git add README.md  
   - git commit -a -m "Updated Section 2"  
+
 6) git push origin master  
 7) Check website: mikloshorn.github.io  
 
