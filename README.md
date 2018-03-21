@@ -1,7 +1,7 @@
 ## Hello World!
 
 This is a test website. Great instructions:  
-[Link Text](https://www.atlassian.com/git/tutorials/comparing-workflows)
+[ATLASSIAN - General master branch git usage](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 #### Section 1
 
@@ -24,7 +24,7 @@ Second git push done with the following steps:
 First offline: go to new branch - work in that, then upload with git push origin <new-branch e.g. start-website>  
 
 More details on working in branches (without affecting master branch) - e.g. different features, submitted for reviews/feedback (pull requests)  
-[Link Text](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+[ATLASSIAN - New branch (feature) usage](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 - git checkout -b marys-feature master: -b tells git to create new branch if it does not exist (based on master). On this branch, Mary edits, stages, and commits changes in the usual fashion, building up her feature with as many commits (status + add + commit) as necessary.  
 - After working on different branch and reviewing: merge pull request (resolve conflicts if others have worked on repo)  
 - Once someone completes a feature, they don’t immediately merge it into master. Instead, they push the feature branch to the central server and file a pull request asking to merge their additions into master  
