@@ -3,6 +3,10 @@
 This is a test website. Great instructions:  
 [ATLASSIAN - General master branch git usage](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
+<!---
+Make sure the links open in new tab :)
+-->
+
 #### Section 1
 
 There is absolutely no information here. None.
